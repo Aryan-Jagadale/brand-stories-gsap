@@ -11,7 +11,8 @@ export default function HeroUsedBy() {
         </p>
       </div>
       <div className="hero-usedBy-logos">
-        <p>Making an impact at</p>
+        <h1>Stories that feel like yours, because they are</h1>
+        <p>Reach more people and engage your audience like never before by bringing tappable Stories to your website.</p>
       </div>
     </div>
   );
